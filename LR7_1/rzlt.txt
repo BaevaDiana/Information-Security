@@ -1,0 +1,5 @@
+X ROX 
+W RWOX 
+RW WOX 
+W O 
+OX RO 

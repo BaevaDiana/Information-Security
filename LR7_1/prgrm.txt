@@ -1,0 +1,14 @@
+cdr = 'W' image_2 image_1
+cer = 'W' image_2 image_3
+cdo = 'O-' image_1
+ccs = 'S+' image_1
+cco = 'O+' image_3
+ccs = 'S+' image_1
+cds = 'S-' image_2
+cer = 'W' image_4 image_2
+cdo = 'O-' image_1
+cdo = 'O-' image_2
+cdo = 'O-' image_3
+cds = 'S-' image_1
+cer = 'O' image_3 image_2
+cdo = 'O-' image_3
